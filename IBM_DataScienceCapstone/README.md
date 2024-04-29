@@ -31,7 +31,12 @@ Step 3: Enable sparse-checkout:
 git sparse-checkout init
 ~~~
 
+Step 4: Set the directories you want to checkout:
 
+~~~
+git sparse-checkout set IBM_DataScienceCapstone
+
+~~~
 
 ## Executing Program
 
