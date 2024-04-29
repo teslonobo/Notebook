@@ -18,7 +18,7 @@ git clone https://github.com/teslonobo/Notebook/IBM_DataScienceCapstone.git
 
 ## Executing Program
 
-You'll find several files and folders but for the most part its pretty self explainatory.
+You'll find several files and folders but for the most part, it's pretty self-explanatory.
 
 But within you'll find:
 
@@ -35,7 +35,7 @@ To run the app after installing the repo via git, you'll have to install some de
 
 #### Environment/Dependencies
 
-Requirements.txt located in the root of IBM_DataScienceCapstone directory
+Requirements.txt is located in the root of the IBM_DataScienceCapstone directory
 
 Virtual Env
 
@@ -48,7 +48,7 @@ pip install requirements.txt
 
 ### Data
 
-Contains our cleaned data, a template capstone_pptx for our final report, and db that was created 
+Contains our cleaned data, a template capstone_pptx for our final report, and a db that was created 
 
 ### Notebooks
 
@@ -57,8 +57,10 @@ Tasks 1 - 8
 A quick note Task 7 is just a template the app is actually in the App directory
 
 ## Author
-    - Teslonobo
+
+Teslonobo
 
 ## Acknowledgements
-    - [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science?)
+
+[Coursera](https://www.coursera.org/professional-certificates/ibm-data-science?)
     - [Pratiksha Verma](https://www.linkedin.com/in/pratiksha-verma-6487561b1/)
