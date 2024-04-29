@@ -20,4 +20,5 @@ Practice Data Science in JNotebook environments and to present final Capstone Pr
     - Teslonobo
 
 ## Acknowledgements
-    [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science?)
+
+[Coursera](https://www.coursera.org/professional-certificates/ibm-data-science?)
