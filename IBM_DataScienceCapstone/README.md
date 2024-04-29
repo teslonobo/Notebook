@@ -6,15 +6,32 @@ Presentation of my Final Project
 
 To install the whole Repo
 
+
 ~~~
 git clone https://github.com/teslonobo/Notebook.git
 ~~~
 
-To quickly install the Final Project
+To install just the Final Project
+
+Step 1: First, clone the repository (this will not checkout any file):
 
 ~~~
-git clone https://github.com/teslonobo/Notebook/IBM_DataScienceCapstone.git
+git clone --no-checkout https://github.com/teslonobo/Notebook.git
 ~~~
+
+Step 2: Navigate to the repository’s directory:
+
+~~~
+cd Notebook
+~~~
+
+Step 3: Enable sparse-checkout:
+
+~~~
+git sparse-checkout init
+~~~
+
+
 
 ## Executing Program
 
