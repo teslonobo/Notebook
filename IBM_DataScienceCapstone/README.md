@@ -63,4 +63,5 @@ Teslonobo
 ## Acknowledgements
 
 [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science?)
-    - [Pratiksha Verma](https://www.linkedin.com/in/pratiksha-verma-6487561b1/)
+
+[Pratiksha Verma](https://www.linkedin.com/in/pratiksha-verma-6487561b1/)
